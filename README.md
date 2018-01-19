@@ -1,3 +1,3 @@
 # ajsherrell.github.io
 My Portfolio
-My first portfolio
+web developer
